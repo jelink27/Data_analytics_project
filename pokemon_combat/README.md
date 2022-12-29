@@ -1,18 +1,18 @@
-寶可夢對戰資料  
+<h1>寶可夢對戰資料<h1>  
 combats.csv -> 歷史對戰紀錄 y  
 pokemon.csv -> 寶可夢素質資料  
 tests.csv -> 兩隻寶可夢對戰  
 
 資料處理流程紀錄  
-*.Type 2大量缺失值需補 (386/800) null ,fillna('empty')   
+* Type 2大量缺失值需補 (386/800) null ,fillna('empty')   
 
-*.object 資料類別轉換 -> category類別型別  
+* object 資料類別轉換 -> category類別型別  
 
-*.Legendary從bool轉換成int (0,1)  
+* Legendary從bool轉換成int (0,1)  
 
-*.使用pandas的get_dummies對Type1 Type2做One Hot Encoding後用join合併 (Type有兩個1)  
+* 使用pandas的get_dummies對Type1 Type2做One Hot Encoding後用join合併 (Type有兩個1)  
 
-*.把原本Type1 Type2改成數值  
+* 把原本Type1 Type2改成數值  
     #將寶可夢屬性轉為數值表示 透過cat.categories查詢類別的標籤  
     dict(enumerate(pokemon_df['Type 2'].cat.categories))  
     {0: 'Bug',  
@@ -39,12 +39,12 @@ tests.csv -> 兩隻寶可夢對戰
     pokemon_df['Type 1'] = pokemon_df['Type 1'].cat.codes  
     pokemon_df['Type 2'] = pokemon_df['Type 2'].cat.codes  
  
- *.資料分割  
+ * 資料分割  
  
- *.標準化
+ * 標準化
  
- *.建立模型、儲存最好權重  
+ * 建立模型、儲存最好權重  
  
- *.matplotlib看訓練結果  
+ * matplotlib看訓練結果  
  
  
