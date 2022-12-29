@@ -14,7 +14,9 @@ tests.csv -> 兩隻寶可夢對戰
 
 * 把原本Type1 Type2改成數值  
     #將寶可夢屬性轉為數值表示 透過cat.categories查詢類別的標籤  
+    ```python3
     dict(enumerate(pokemon_df['Type 2'].cat.categories))  
+    ```
     {0: 'Bug',  
      1: 'Dark',  
      2: 'Dragon',  
