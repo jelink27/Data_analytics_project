@@ -2,4 +2,8 @@
 
 <h1>鳶尾花資料集  
 
-<h3>
+<h3>  
+
+* 資料EDA，利用Matplotlib視覺化  
+  
+* logistic regression分析
