@@ -75,7 +75,8 @@ model_3.summary()
 ```
   
   
-<h2>model-4 加入dropout(捨棄比率設定為30%)<h2>    
+<h2>model-4 加入dropout(捨棄比率設定為30%)<h2>  
+  
 ```python3
 model_4 = keras.Sequential(name='model-4')
 model_4.add(layers.Dense(64,activation='relu',input_shape=(21,)))
