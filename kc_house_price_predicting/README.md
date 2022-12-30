@@ -30,7 +30,7 @@
 <h3>房價預測為一個回歸問題，但特徵較多，所以房價跟單一特徵之間可能並無線性關係(或全部都有?  
 不使用線性回歸，可考慮使用多項式回歸或是NN進行訓練。
 
-<h2>model-1 使用NN 不加入dropout或L1 L2正規化  
+<h2>model-1 使用NN 不加入dropout或L1 L2正規化<h2>    
 ```python3
 #建立第一個sequential型別的model
 model = keras.Sequential(name='model-1')
