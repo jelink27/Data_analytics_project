@@ -86,4 +86,5 @@ model_4.add(layers.Dropout(0.3))
 model_4.add(layers.Dense(64,activation='relu'))
 model_4.add(layers.Dropout(0.3))
 model_4.add(layers.Dense(1))  
+model_4.summary()
 ```  
