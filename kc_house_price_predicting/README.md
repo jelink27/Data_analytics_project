@@ -28,4 +28,22 @@
 
 <h2>解題思路  
 <h3>房價預測為一個回歸問題，但特徵較多，所以房價跟單一特徵之間可能並無線性關係(或全部都有?  
-不使用線性回歸，可考慮使用多項式回歸或是NN進行訓練。  
+不使用線性回歸，可考慮使用多項式回歸或是NN進行訓練。
+
+
+'''python
+#建立第一個sequential型別的model
+model = keras.Sequential(name='model-1')
+
+#第一層區全連階層設為64個unit，輸入shape=4 實際上輸入資料為(batch_size, 21)
+model.add(layers.Dense(64,activation='relu',input_shape=(21,)))
+
+#第二層全連階層設為64個unit
+model.add(layers.Dense(64,activation='relu'))
+
+#最後一層設為一個unit
+model.add(layers.Dense(1))
+
+#顯示網路模型架構
+model.summary()
+'''
