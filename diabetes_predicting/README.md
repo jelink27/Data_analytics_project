@@ -20,7 +20,8 @@
   
   
 <h2>
-<h3>第一次使用RMAE做評估指標
+<h3>第一次使用RMAE做評估指標  
+ 
 `
 相對平均絕對誤差（Relative Mean Absolute Error，RMAE）是衡量回歸模型性能的一種測量方法。它是平均絕對誤差（Mean Absolute Error，MAE）的比值，表示預測值與真實值之差的絕對值的平均值佔真實值的均值的百分比。
 公式為：RMAE = MAE / mean(y)
