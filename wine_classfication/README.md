@@ -11,13 +11,13 @@
 以下是葡萄酒資料集中每個特徵的具體含義：
 
 * alcohol: 葡萄酒的酒精濃度。
-* malic_acid: 葡萄酒中的苹果酸含量。
+* malic_acid: 葡萄酒中的蘋果酸含量。
 * ash: 葡萄酒中灰分的含量。
-* alcalinity_of_ash: 葡萄酒灰分的碱度。
+* alcalinity_of_ash: 葡萄酒灰分的鹼度。
 * magnesium: 葡萄酒中鎂的含量。
-* total_phenols: 葡萄酒中总酚类物质的含量。
-* flavanoids: 葡萄酒中的黄酮类化合物的含量。
-* nonflavanoid_phenols: 葡萄酒中的非黄酮类酚类物质的含量。
+* total_phenols: 葡萄酒中總酚類物質的含量。
+* flavanoids: 葡萄酒中的黄酮類化合物的含量。
+* nonflavanoid_phenols: 葡萄酒中的非黄酮類酚類物質的含量。
 * proanthocyanins: 葡萄酒中的花青素的含量。
 * color_intensity: 葡萄酒的顏色強度。
 * hue: 葡萄酒的色调。
