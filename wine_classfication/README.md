@@ -32,3 +32,5 @@
               [ 0 20  0]  
               [ 0  1 18]]  
  Accuracy為0.98  
+
+!image['https://github.com/jelink27/Data_analytics_project/blob/main/wine_classfication/wine_scatter.png']
