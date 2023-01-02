@@ -5,3 +5,4 @@
 (2022/12/30) Iris_dataset 鳶尾花資料集(EDA、logistic regression、混淆矩陣、KNN)  
 (2022/12/31) kc_house_price_predicting 華盛頓州諾爾曼市郊房價預測(LinearRegression、NN*3)  
 (2023/01/01) diabetes_predicting 糖尿病預測數據集(target為連續數值，迴歸問題)
+(2023/01/02) wine_classification 葡萄酒分類數據集(13個特徵、3類)
