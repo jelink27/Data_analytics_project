@@ -1,4 +1,4 @@
-<h1><wine_classfication葡萄酒分類資料集>
+<h1><wine_classfication葡萄酒分類資料集>  
 <h2>wine_classfication資料集介紹及目標  
 <h3>wine_classfication資料集內總共有13個特徵，3種分類結果(0、1、2) 
  
