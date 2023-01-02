@@ -25,9 +25,9 @@
 * proline: 葡萄酒中的脯氨酸的含量。
 
  
- <h4>2023/01/02 第一次嘗試用multiclass LogisticRegression完成分類問題  
-  混淆矩陣結果為
- [[15  0  0]
- [ 0 20  0]
- [ 0  1 18]]
- Accuracy為0.98
+<h4>2023/01/02 第一次嘗試用multiclass LogisticRegression完成分類問題  
+混淆矩陣結果為：  
+              [[15  0  0]  
+              [ 0 20  0]  
+              [ 0  1 18]]  
+ Accuracy為0.98  
