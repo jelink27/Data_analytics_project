@@ -39,7 +39,8 @@
 <h3>
 1.可以先嘗試用heatmap判斷高關聯性的feature後，用scatter觀察是否有機會使用KNN完成分類   
 2.因為特徵較多，考慮使用NN或者MLPClassifier  
-<h3>
+
+
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/breast_cancer_classfication/breast_cancer_heatmap.png)  
 
 
