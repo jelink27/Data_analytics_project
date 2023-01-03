@@ -6,3 +6,4 @@
 (2022/12/31) kc_house_price_predicting 華盛頓州諾爾曼市郊房價預測(LinearRegression、NN*3)  
 (2023/01/01) diabetes_predicting 糖尿病血糖預測數據集(EDA、LinearRegression、DecisionTree、RandomForest)  
 (2023/01/02) wine_classification 葡萄酒分類數據集(EDA、multi logistic regression(3))
+(2023/01/03) breast_cancer_classfication 乳癌病患預測分類數據集(KNN)
