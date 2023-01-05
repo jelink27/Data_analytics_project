@@ -27,7 +27,21 @@
 <h3>台灣共有GRL.rnk(地質資源)、SPU.rnk(水資源)、WTL.rnk(水源汙染)、落後於75分位，表現較差<h3> 
   
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/Taiwan_rank.png)
+
+<h2>台灣概況<h2>
+<h3>台灣在Ecosystem分數內的Grassland loss、Wetland loss、Pesticide(農藥)表現較差<h3>
+<h3>Health中的NOx、SO2、CO也是表現較差<h3>  
+![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/%E5%8F%B0%E7%81%A3%E6%A6%82%E6%B3%81.png)  
   
+```
+NOx：(台灣是NA該項未得分)
+  我們使用一個國家的大氣地面濃度來衡量對地面氮氧化物（NO和NO2）的暴露。污染物濃度是以人口加權的，以更好地捕捉人口密度較高的地理區域的暴露水平。100分表示該國家在全球暴露最低（≤5%），而0分表示該國家在全球暴露最高（≥99%）。  
+```  
+  
+``` 
+SO2：(台灣得分10.30)  
+  使用一個國家的大氣地面濃度來衡量對地面硫化氫的暴露。污染物濃度是以人口加權的，以更好地捕捉人口密度較高的地理區域的暴露水平。100分表示該國家在全球暴露最低（≤5%），而0分表示該國家在全球暴露最高（≥99%）。  
+```   
   
 <h2><h2>
 <h3><h3> 
