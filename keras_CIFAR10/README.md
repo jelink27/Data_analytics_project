@@ -5,4 +5,4 @@
 <h2>利用CNN建立模型，並用來訓練及評估模型效能
   
   
-  
+![image](https://github.com/jelink27/Data_analytics_project/blob/main/keras_CIFAR10/cifar_10.jpg)  
