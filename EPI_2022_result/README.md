@@ -24,7 +24,7 @@
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/EPI_score_global_map.png)  
   
 <h2>台灣13項指標的排名(共180國)<h2>
-<h3>台灣共有GRL.rnk、SPU.rnk、WTL.rnk、落後於75分位，表現較差<h3> 
+<h3>台灣共有GRL.rnk(地質資源)、SPU.rnk(水資源)、WTL.rnk(水源汙染)、落後於75分位，表現較差<h3> 
   
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/Taiwan_rank.png)
   
@@ -32,6 +32,9 @@
 <h2><h2>
 <h3><h3> 
 ![image]()
+
+  
+  
 ```  
 * EPI.new、EPI.old、EPI.change、EPI.rnk.new 與環境指數相關   
 * HLT.new、HLT.old、HLT.change、HLT.rnk.new 與健康相關
