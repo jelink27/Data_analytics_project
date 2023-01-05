@@ -9,19 +9,23 @@
 <h3>EPI資料集內共評比了180個國家(列)，總共有159個欄位其中包含<h3> 
 
 <h2>EPI評分標準<h2>
-<h3>從視覺化pi圖可以更明顯的看出來分數是如何組成，大區塊、小區塊等等<h3>      
+<h3>從視覺化pi圖可以更明顯的看出來分數是如何組成，大區塊、小區塊等等<h3> 
+  
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/weighting_wheel_06062022.jpg)  
   
 <h2>全球排名清單<h2>
 <h3>Taiwan No.74<h3>  
+  
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/global_rnk.png)
 
 <h2>全球得分概況<h2>
-<h3>觀察各國得分及分布情況，是否存在已開發國家、未開發國家之差異?<h3>  
+<h3>觀察各國得分及分布情況，是否存在已開發國家、未開發國家之差異?<h3>
+  
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/EPI_score_global_map.png)  
   
 <h2>台灣13項指標的排名(共180國)<h2>
 <h3>台灣共有GRL.rnk、SPU.rnk、WTL.rnk、落後於75分位，表現較差<h3> 
+  
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/Taiwan_rank.png)
   
   
