@@ -9,6 +9,7 @@
 <h3>EPI資料集內共評比了180個國家(列)，總共有159個欄位其中包含<h3> 
 
 <h2>全球排名清單<h2>
+  
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/EPI_2022_result/result_image/global_rnk.png)
 
 
