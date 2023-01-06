@@ -8,5 +8,5 @@
 (2023/01/02) wine_classification 葡萄酒分類數據集(EDA、multi logistic regression(3))  
 (2023/01/03) breast_cancer_classfication 乳癌病患預測分類數據集(EDA、KNN、MLPClassifier)   
 (2023/01/04) EPI_2022_result WHO世界環境績效指標(EDA)  
-(2023/01/05) Keras_CIFAR10 10類別影像辨識 (CNN、tensorboard)
+(2023/01/05) Keras_CIFAR10 10類別影像辨識 (CNN、tensorboard)  
 (2023/01/06) uniqlo_sales_data_analysis (EDA、Tableau)
