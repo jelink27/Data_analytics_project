@@ -11,3 +11,4 @@
 (2023/01/05) Keras_CIFAR10 10類別影像辨識 (CNN、tensorboard)  
 (2023/01/06) uniqlo_sales_data_analysis (EDA、Tableau)  
 (2023/01/07) titanic_survival_prediction (XGB、RandomForest)  
+(2023/01/08)  
