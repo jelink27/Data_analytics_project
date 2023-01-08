@@ -20,9 +20,7 @@
 ![image](https://github.com/jelink27/Data_analytics_project/blob/main/Iris%20dataset/51518iris%20img1.png)  
 
 
-
 <h3>  
 
-* 資料EDA，利用Matplotlib視覺化  
-  
+* 資料EDA，利用Matplotlib視覺化    
 * logistic regression分析
