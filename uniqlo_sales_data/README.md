@@ -2,6 +2,7 @@
 
 <h3>資料是uniqlo一週時間的銷售資訊，欄位包含以下  
  
+ 
   
 * store_id	店鋪ID
 * city	店鋪城市
