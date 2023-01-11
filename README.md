@@ -14,3 +14,4 @@
 (2023/01/08) uniqlo_sales_data_analysis (insights q2~q5)  
 (2023/01/09) K_means_cluster (K-means practice)  
 (2023/01/10) COVID-19 Vaccinated dashboard (Tableau)  
+(2023/01/11) COVID-19 感染狀況、病徵、死亡 (EDA)
