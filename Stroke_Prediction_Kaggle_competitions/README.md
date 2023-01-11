@@ -1,1 +1,1 @@
-
+![image](https://github.com/jelink27/Data_analytics_project/blob/main/Stroke_Prediction_Kaggle_competitions/first_commit.jpg)
