@@ -13,4 +13,4 @@
 (2023/01/07) titanic_survival_prediction (XGB、RandomForest)  
 (2023/01/08) uniqlo_sales_data_analysis (insights q2~q5)  
 (2023/01/09) K_means_cluster (K-means practice)  
-(2023/01/10) COVID-19 Vaccubated dashboard (Tableau)  
+(2023/01/10) COVID-19 Vaccinated dashboard (Tableau)  
