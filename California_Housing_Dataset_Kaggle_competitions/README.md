@@ -8,3 +8,9 @@
 * train.csv - the training dataset; MedHouseVal is the target  
 * test.csv - the test dataset; your objective is to predict MedHouseVal  
 * sample_submission.csv - a sample submission file in the correct format  
+
+  
+<h2>備註</br> 
+  
+RMSE 0.61
+RMSE 0.84  
