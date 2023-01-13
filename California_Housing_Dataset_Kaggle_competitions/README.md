@@ -4,6 +4,7 @@
   
 <h1>Files
 <h3>
-* train.csv - the training dataset; MedHouseVal is the target
-* test.csv - the test dataset; your objective is to predict MedHouseVal
-* sample_submission.csv - a sample submission file in the correct format
+  
+* train.csv - the training dataset; MedHouseVal is the target  
+* test.csv - the test dataset; your objective is to predict MedHouseVal  
+* sample_submission.csv - a sample submission file in the correct format  
