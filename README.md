@@ -16,3 +16,4 @@
 (2023/01/10) COVID-19_Vaccinated_dashboard (Tableau)  
 (2023/01/11) Stroke_Prediction_Kaggle_competitions (EDA、logistic regression)  
 (2023/01/12) California_Housing_Dataset_Kaggle_competitions (GBR、RandomForest)  
+(2023/01/13) Stroke_Prediction_Kaggle_competitions(Tableau)  
