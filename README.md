@@ -18,4 +18,5 @@
 (2023/01/12) California_Housing_Dataset_Kaggle_competitions (GBR、RandomForest)  
 (2023/01/13) Stroke_Prediction_Kaggle_competitions(Tableau)  
 (2023/01/14) department_store_sales_analysis (EDA)  
-(2023/01/15) department_store_sales_analysis (Tableau)  
+(2023/01/15) department_store_sales_analysis (lRFM)  
+ 
