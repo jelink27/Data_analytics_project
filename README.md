@@ -1,6 +1,6 @@
 # Data_analytics_project(ML、DL)  
 
-1. American_population_2010_2015 美國人口普查資料分析(EDA) \
+1. American_population_2010_2015 美國人口普查資料分析(EDA)  
 2. Pokemon_combat 寶可夢對戰結果預測 (NN)  
 3. Iris_dataset 鳶尾花資料集(EDA、logistic regression、混淆矩陣、KNN)  
 4. kc_house_price_predicting 華盛頓州諾爾曼市郊房價預測(LinearRegression、NN*3)  
